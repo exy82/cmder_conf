@@ -5,5 +5,5 @@ pwd=cd
 clear=cls
 l=ls --show-control-chars --color $*
 la=ls -aF --show-control-chars --color $*
-ll=ls -alF --show-control-chars
+ll=ls -alF --show-control-chars --color $*
 ls=ls --show-control-chars -F --color $*
