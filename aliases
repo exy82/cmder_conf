@@ -4,6 +4,6 @@ ls=ls --color $*
 pwd=cd
 clear=cls
 l=ls --show-control-chars --color $*
-la=ls -aF --show-control-chars
+la=ls -aF --show-control-chars --color $*
 ll=ls -alF --show-control-chars
 ls=ls --show-control-chars -F --color $*
