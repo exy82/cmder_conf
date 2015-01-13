@@ -1,0 +1,9 @@
+e.=explorer .
+gl=git log --oneline --all --graph --decorate  $*
+ls=ls --color $*
+pwd=cd
+clear=cls
+l=ls --show-control-chars
+la=ls -aF --show-control-chars
+ll=ls -alF --show-control-chars
+ls=ls --show-control-chars -F --color $*
